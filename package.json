@@ -1,0 +1,11 @@
+{
+  "name": "exceltojson",
+  "version": "1.0.0",
+  "description": "this excel transform json",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "jenny",
+  "license": "ISC"
+}
